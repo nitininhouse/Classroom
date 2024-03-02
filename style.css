@@ -1,0 +1,355 @@
+* {
+	margin: 0;
+	padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+   font-family: Lato;
+}
+
+.main-page{
+    
+    
+    position: fixed;
+    align-items: center;
+    background-color: #ffffff;
+
+}
+
+.head{
+    position: relative;
+    height: 189px;
+    width: auto;
+
+    background-color: white;
+    border: black;
+    
+    
+}
+.img{
+    display: inline;
+}
+.logo{
+height: 60px;
+width: 431.25px;
+position: absolute;
+top: 40px;
+left: 120px;
+
+
+}
+.calendar{
+    height: 24.67px;
+    display: inline ;
+}
+.eng{
+    position: absolute;
+    left: 1071px;
+    top: 50px;
+    
+}
+.h{
+    height: 2px;
+    width: 1085px;
+    position: absolute;
+    left: 120px;
+    top: 130px;
+    background-color: #0067b3;
+}
+.text{
+    position: absolute;
+    left: 1028px;
+    top: 81px;
+}
+
+.options{
+height: 17px; ;
+
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+position: absolute;
+left: 120px;
+top: 151px;
+right: 120px;
+
+
+}
+
+.box{
+    font-size: 14px;
+    margin-right: 34.97px;
+   
+}
+
+.content{
+    position: relative;
+    height: 288px;
+    background-color: #0067b3;
+
+}
+.home{
+    color: white;
+    height: 24px;
+    width: 200px;
+    position: absolute;
+    left: 120px;
+    top: 31px;
+}
+.meet-the-team{
+    height: 235px;
+    font-size: 28px;
+    
+    color: white;
+    position: absolute;
+    left: 120px;
+    top: 161px;
+}
+.design{
+    height: 20px;
+    font-size: 16px;
+    color: white;
+    font: noto-sans;
+    position: absolute;
+    left: 120px;
+    top: 220px;
+}
+
+.shiva{
+    position: relative;
+    height: 220px;
+
+
+}
+.container{
+    height: 71px;
+    
+    color: black;
+    position: absolute;
+    top: 47px;
+    right: 120px;
+    left: 120px;
+    
+    
+  }
+  
+.vertical1{
+    position: absolute;
+    top: 174px;
+    font-size: 28px;
+    left: 120px;
+}
+
+.box4{
+    height: 375px;
+    position: relative;
+}
+.box41{
+    height: 160px;
+    background-color: white;
+
+    
+}
+.box42{
+    height: 215px;
+    background-color: #0067b3 ;
+    
+}
+
+
+.Gauri-maam{
+    position:absolute;
+    left: 1058px;
+    top: 0px;
+}
+
+.Anshika-maam{
+    position:absolute;
+    left: 620px;
+    
+    bottom:0px;
+}
+
+.rishiraj-sir{
+    position:absolute;
+    left: 98px;
+    top: -30px;
+
+}
+
+.box5{
+    height: 332px;
+    position: relative;
+}
+.hr1{ 
+height: 4px ;
+width: 133px;
+ background-color: yellow;
+}
+.name{
+    width: 243px;
+    height: 146px;
+    position: absolute;
+    left: 150px;
+    top: 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.name2{
+    width: 178px;
+    height: 146px;
+    position: absolute;
+    left: 647px;
+    top: 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.name3{
+    width: 140px;
+    height: 146px;
+    position: absolute;
+    left: 1117px;
+    top: 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.developer{
+    width: 195px;
+    height: 28px;
+    font-size: 28px;
+    position: absolute;
+    left: 120px;
+    top: 250px;
+}
+
+ .box6{
+    height: 375px;
+    position: relative;
+}
+
+.box61{
+    height:160px;
+    background-color: white;
+}
+
+.box62{
+    height: 215px;
+    background-color: #0067b3;
+}  
+.noble-sir{
+    position:absolute;
+    left: 1020px;
+    bottom: 0px;
+}
+
+.samrat-sir{
+    position:absolute;
+    left: 590px;
+    
+    bottom:0px;
+}
+
+.akhil-sir{
+    position:absolute;
+    left: 170px;
+    bottom: 0px;
+}
+.box7{
+    height: 180px;
+    position: relative;
+}
+
+.name7{
+    width: 243px;
+    height: 146px;
+    position: absolute;
+    left: 150px;
+    top: 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.name8{
+    width: 178px;
+    height: 146px;
+    position: absolute;
+    left: 647px;
+    top: 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.name9{
+    width: 140px;
+    height: 146px;
+    position: absolute;
+    left: 1117px;
+    top: 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.footer{
+    height: 464px;
+    position: relative;
+    
+}
+.part1{
+    height: 271px;
+    width: 260px;
+    position: absolute;
+    left: 122px;
+    top: 170px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.part2{
+    height:312px ;
+    width: 87px;
+    position: absolute;
+    left: 484px;
+    top: 170px;
+    display: flex;
+    flex-direction: column ;
+    justify-content: space-between ;
+
+}
+.part3{
+    height:312px ;
+    width: 119px;
+    position: absolute;
+    left: 720px;
+    top: 170px;
+    display: flex;
+    flex-direction: column ;
+    justify-content: space-between ;
+}
+.part4{
+    height:312px ;
+    width: 272px;
+    position: absolute;
+    left: 1029px;
+    top: 170px;
+    display: flex;
+    flex-direction: column ;
+    justify-content: space-between 
+
+}
+
+
+    
