@@ -18,6 +18,8 @@ body{
 }
 
 .head{
+    height: 100%;
+    width: 100%;
     position: relative;
     height: 189px;
     width: auto;

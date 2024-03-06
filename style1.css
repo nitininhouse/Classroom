@@ -1,0 +1,316 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato';
+
+}
+
+html,body{
+    height : 100%;
+    width: 100%;
+
+}
+
+.nav{
+    position: relative;
+    height: 8.69vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 2.67vw;
+    padding-left: 8.021vw;
+    
+}
+.logo{
+width: 28.791vw;
+height: 4.011vw;
+
+
+}
+.navpart2{
+    height: 6vw;
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-left: 8.021vw ;
+    padding-right: 8.021vw;
+    padding-top: 3.5vw ;
+
+    
+}
+.name{
+    width: 0.668vw;
+    height: 0.401vw;
+}
+
+.blue{
+    height: 19.251vw;
+    width: 100%;
+    background-color: #0067b3;
+    position: relative;
+}
+.home{
+    color: white;
+    font-size: 0.936vw;
+    padding-top: 2.072vw;
+    padding-left: 8.021vw;
+   
+}
+.meet-the-team{
+    font-size: 1.872vw;
+    
+    color: white;
+    padding-top: 7.086vw;
+    padding-left: 8.021vw;
+   
+}
+.design{
+    
+    font-size: 1.07vw;
+    color: white;
+    padding-top: 2.005vw;
+    padding-left: 8.021vw;
+   
+}
+.extra{
+    font-size: 1.07vw;
+    height: 11.8vw;
+    padding-top: 3.142vw ;
+    padding-left: 8.021vw;
+    padding-right: 8.021vw;
+    padding-bottom: 3.142vw;
+}
+.member{
+    position: relative;
+}
+.box41{
+    height: 12.634vw;
+    width: 100vw;
+
+}
+.box42{
+    height: 14.3vw;
+    width: 100vw;
+    background-color: #0067b3;
+    
+}
+.box43{
+    height: 19.6vw;
+    width: 100vw;
+    
+    
+}
+.designers{
+    font-size: 1.872vw;
+    padding-left: 8vw;
+}
+.hr2{
+    width: 8.89vw;
+    height: 0.267vw;
+    background-color: yellow;
+}
+.phot{
+    width: 19.118vw;
+    height: 22.46vw;
+    align-self: flex-start;
+}
+/* .n1{
+    position: absolute;
+    top: 47vw;
+    left: 8vw;
+
+}
+#n11:hover {
+    opacity: 0;
+} */
+.memeber1{
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 2.8vw;
+    
+}
+.rishiraj{
+    height: 45.4vw;
+    font-size: 1.337vw;
+    /* position: absolute; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    
+    
+     
+
+}
+.Anshika{
+    height: 45.4vw;
+    font-size: 1.337vw;
+    /* position: absolute; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+    
+.Gauri{
+    height: 45.4vw;
+    font-size: 1.337vw;
+    /* position: absolute; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    
+   
+}
+.box51{
+    height: 12.634vw;
+    width: 100vw;
+
+}
+.box52{
+    height: 14.3vw;
+    width: 100vw;
+    background-color: #0067b3;
+    
+}
+.box53{
+    height: 19.6vw;
+    width: 100vw;
+    
+    
+}
+.developers{
+    font-size: 1.872vw;
+    padding-left: 8vw;
+}
+
+
+.memeber2{
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 2.8vw;}
+
+.akhil{
+    height: 45.4vw;
+    font-size: 1.337vw;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+   
+     
+
+}
+.samrat{
+    height: 45.4vw;
+    font-size: 1.337vw;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+.noble{
+    height: 45.4vw;
+    font-size: 1.337vw;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.footer{
+    height: 31.01vw;
+    position: relative;
+    
+}
+.last{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 11.7vw;
+    flex-wrap: wrap;
+}
+
+.part1{
+    height: 18.11vw;
+    width: 17.38vw;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.part2{
+    height: 20.8vw ;
+    width: 5.81vw;
+    
+    display: flex;
+    flex-direction: column ;
+    justify-content: space-between ;
+
+}
+.part3{
+    height:20.8vw;
+    width: 7.95vw;
+   
+    display: flex;
+    flex-direction: column ;
+    justify-content: space-between ;
+}
+.part4{
+    height:20.8vw ;
+    width: 18.1vw;
+    
+    display: flex;
+    flex-direction: column ;
+    justify-content: space-between;
+
+}
+.map {
+    height: 7.955vw;
+    width:12.9vw ;
+}
+.map2{
+    height:12.2vw ;
+    width:18.18vw ;
+}
+
+
+
+@media (max-width:600px) {
+    .navpart2{
+        display: none;
+
+    }
+    .logo{
+        width: 70vw;
+        height: 10vw;
+    }
+    .memeber1{
+        flex-direction: column
+        ;
+    }
+    .memeber2{
+        flex-direction: column;
+    }
+    
+
+
+    
+}
+
